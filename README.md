@@ -1,6 +1,5 @@
 ### Hello, what brings you here today?
-/play sax
-## Here, have a :watermelon:, and welcome to my GitHub! :octocat:
+### Here, have a :watermelon:, and welcome to my GitHub! :octocat:
 
 * :telescope: Currently working on:
   * :mortar_board: Getting an undergraduate degree at [Soka](soka.edu)
@@ -14,7 +13,8 @@
     >Yes, cool guy.
   * Grandma:
     >The sweetest person in the world.
-    *Thanks おばあちゃん*
+    
+    >*Thanks おばあちゃん*
   * Stranger:
     >Why are you talking to me? Who are you?
 
