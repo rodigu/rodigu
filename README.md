@@ -5,6 +5,7 @@
   * :mortar_board: Getting an undergraduate degree at [Soka](soka.edu)
 * :book: Currently Learning:
   * :computer: JavaScript
+* :smile: Ponoums > He/They
 
 * :microphone: First-hand accounts
   * Brother:
@@ -22,7 +23,7 @@ Pros|Cons
 ----|----
 C/C++|???
 Java|:thumbsup:
-Python|I am sorry mom
+Python|very well
 JavaScript|:eyes:
 
 
