@@ -19,12 +19,9 @@
   * Stranger:
     >Why are you talking to me? Who are you?
 
-Pros|Cons
-----|----
-C/C++|???
-Java|:thumbsup:
-Python|very well
-JavaScript|:eyes:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=dark)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=dark&show_icons=true)
 
 
 <!--
