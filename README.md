@@ -17,7 +17,7 @@
 
 ### ⌚ Past projects
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="12" /> NeTS, a network science library written in TypeScript.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="16" /> NeTS, a network science library written in TypeScript.
 - NxTool, a tool for visually creating networks that can be exported to networkx
 
 ### :telescope: Currently working on:
