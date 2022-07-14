@@ -19,6 +19,9 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="16" /> NeTS, a network science library written in TypeScript.
 - NxTool, a tool for visually creating networks that can be exported to networkx
+- Little games and tech demos written in Lua for [Tic80](https://tic80.com/profile)
+- Math demos written in JS with P5 on [openprocessing](https://openprocessing.org/user/219598?o=7&view=sketches)
+- (Ntro)[https://rmorais.itch.io/ntro], a tron clone for n-players
 
 ### :telescope: Currently working on:
 
