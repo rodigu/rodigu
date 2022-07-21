@@ -27,7 +27,7 @@
 
 ## :telescope: Currently working on:
 
-- :mortar_board: Completing my Ph.D. in Informatics at UIUC <img href="https://informatics.ischool.illinois.edu" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" width="8"/>
+- :mortar_board: Completing my Ph.D. in Informatics at [UIUC <img src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" width="8" />](https://informatics.ischool.illinois.edu)
 - :computer: Graph structure and cycles in cryptocurrency markets ([GitHub page](https://github.com/rodigu/crypto-graph-triplets))
 
 ## ✉ Contact/Where to find me
@@ -36,7 +36,9 @@
 - Proton email: rmoraisu@proton.me
 
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20" href="https://tic80.com/dev?id=5531"> <img src="https://openprocessing.org/assets/img/logo/logo_36x30_color@2x.png" width="32" hspace="20" href="https://openprocessing.org/user/219598?o=7&view=sketches"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" width="32" hspace="20" href="https://www.linkedin.com/in/rodrigohmorais/"/>
+  <a href="https://tic80.com/dev?id=5531" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32"></a>
+  <a href="https://openprocessing.org/user/219598?o=7&view=sketches" hspace="20"><img src="https://openprocessing.org/assets/img/logo/logo_36x30_color@2x.png" width="32"/></a>
+  <a href="https://www.linkedin.com/in/rodrigohmorais/" hspace="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" width="32"/></a>
 </p>
 
 ## :computer: Languages
