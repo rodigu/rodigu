@@ -7,7 +7,7 @@
 - [:smile: Ponouns > He/They](#smile-ponouns--hethey)
 - [:microphone: First-hand accounts](#microphone-first-hand-accounts)
 
-### Interests
+## Interests
 
 - Network Science and Graph Theory
 - Technology education
@@ -17,7 +17,7 @@
 - Support for communities underrepresented in tech spaces
 - Creative coding
 
-### ⌚ Past projects
+## ⌚ Past projects
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="16" /> NeTS, a network science library written in TypeScript.
 - NxTool, a tool for visually creating networks that can be exported to networkx
@@ -25,12 +25,12 @@
 - Math demos written in JS with P5 on [openprocessing](https://openprocessing.org/user/219598?o=7&view=sketches)
 - [Ntro](https://rmorais.itch.io/ntro), a tron clone for n-players
 
-### :telescope: Currently working on:
+## :telescope: Currently working on:
 
 - :mortar_board: Completing my Ph.D. in Informatics at [<img src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" width="16" />](https://informatics.ischool.illinois.edu)
 - :computer: Graph structure and cycles in cryptocurrency markets ([GitHub page](https://github.com/rodigu/crypto-graph-triplets))
 
-### ✉ Contact/Where to find me
+## ✉ Contact/Where to find me
 
 - Institutional email: rmorais2@illinois.edu
 - Proton email: rmoraisu@proton.me
@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20" href="https://tic80.com/dev?id=5531"> <img src="https://openprocessing.org/assets/img/logo/logo_36x30_color@2x.png" width="32" hspace="20" href="https://openprocessing.org/user/219598?o=7&view=sketches"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" width="32" hspace="20" href="https://www.linkedin.com/in/rodrigohmorais/"/>
 </p>
 
-### :computer: Languages
+## :computer: Languages
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="32" hspace="20"/>
@@ -47,7 +47,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png" width="32" hspace="20"/>
 </p>
 
-### :man_technologist: Tech/Tools
+## :man_technologist: Tech/Tools
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" width="32" hspace="20"/>
@@ -55,9 +55,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20"/>
 </p>
 
-### :smile: Ponouns > He/They
+## :smile: Ponouns > He/They
 
-### :microphone: First-hand accounts
+## :microphone: First-hand accounts
 
 - Brother:
   > Ah, Rodrigo? I still owe him R$10.
