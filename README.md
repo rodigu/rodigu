@@ -52,7 +52,6 @@
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" width="32" hspace="20"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/640px-Deno_2021.svg.png" width="32" hspace="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Font_Awesome_5_brands_node-js.svg/640px-Font_Awesome_5_brands_node-js.svg.png" width="32" hspace="20"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20"/>
 </p>
 
