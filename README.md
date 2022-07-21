@@ -27,7 +27,7 @@
 
 ## :telescope: Currently working on:
 
-- :mortar_board: Completing my Ph.D. in Informatics at UIUC <img src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" width="8" href="https://informatics.ischool.illinois.edu"/>
+- :mortar_board: Completing my Ph.D. in Informatics at UIUC <img href="https://informatics.ischool.illinois.edu" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" width="8"/>
 - :computer: Graph structure and cycles in cryptocurrency markets ([GitHub page](https://github.com/rodigu/crypto-graph-triplets))
 
 ## ✉ Contact/Where to find me
