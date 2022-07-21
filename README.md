@@ -39,6 +39,7 @@
   <a href="https://openprocessing.org/user/219598?o=7&view=sketches"><img src="https://openprocessing.org/assets/img/logo/logo_36x30_color@2x.png" width="32" hspace="20"/></a>
   <a href="https://www.linkedin.com/in/rodrigohmorais/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" width="32" hspace="20"/></a>
   <a href="https://tic80.com/dev?id=5531"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20"></a>
+  <a href="https://rmorais.itch.io"><img src="https://static.itch.io/images/itchio-textless-white.svg" width="32" hspace="20"></a>
 </p>
 
 ## :computer: Languages
