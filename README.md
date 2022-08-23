@@ -60,6 +60,13 @@
 
 ## :smile: Ponouns > He/They
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=dark)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=dark&show_icons=true)
+
+<!--
+
+
 ## :microphone: First-hand accounts
 
 - Brother:
@@ -74,12 +81,6 @@
 
 - Stranger:
   > Why are you talking to me? Who are you?
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=dark)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=dark&show_icons=true)
-
-<!--
 **rodigu/rodigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
