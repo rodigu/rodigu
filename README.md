@@ -4,7 +4,7 @@
 - [✉ Contact/Where to find me](#-contactwhere-to-find-me)
 - [:computer: Languages](#computer-languages)
 - [:man_technologist: Tech/Tools](#man_technologist-techtools)
-- [:smile: Ponouns > He/They](#smile-ponouns--hethey)
+- [:smile: Pronouns > He/They](#smile-ponouns--hethey)
 - [:microphone: First-hand accounts](#microphone-first-hand-accounts)
 
 ## Interests
@@ -58,7 +58,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20"/>
 </p>
 
-## :smile: Ponouns > He/They
+## :smile: Pronouns > He/They
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=dark)
 
