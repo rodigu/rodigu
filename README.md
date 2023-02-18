@@ -1,3 +1,4 @@
+- [Highlight](#highlight)
 - [Interests](#interests)
 - [⌚ Past projects](#-past-projects)
 - [:telescope: Currently working on:](#telescope-currently-working-on)
@@ -6,6 +7,9 @@
 - [:man_technologist: Tech/Tools](#man_technologist-techtools)
 - [:smile: Pronouns > He/They](#smile-ponouns--hethey)
 - [:microphone: First-hand accounts](#microphone-first-hand-accounts)
+
+## Highlight
+<iframe frameborder="0" src="https://itch.io/embed/1932625?bg_color=000000&amp;fg_color=f20000&amp;link_color=ffffff&amp;border_color=ffffff" width="208" height="167"><a href="https://rmorais.itch.io/xadado">Xadado by rmorais</a></iframe>
 
 ## Interests
 
