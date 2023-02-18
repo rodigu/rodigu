@@ -10,7 +10,7 @@
 
 ## Highlight
 
-<a href="https://rmorais.itch.io/xadado"><img src="https://img.itch.zone/aW1nLzExMzYyNTU3LmdpZg==/180x143%23c/nYZoVS.gif" width="250" hspace="20"/></a>
+<a href="https://rmorais.itch.io/xadado" target="_blank"><img src="https://img.itch.zone/aW1nLzExMzYyNTU3LmdpZg==/180x143%23c/nYZoVS.gif" width="250" hspace="20"/></a>
 
 ## Interests
 
