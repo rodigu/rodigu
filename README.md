@@ -10,7 +10,7 @@
 
 ## Highlight
 
-<a href="[https://openprocessing.org/user/219598?o=7&view=sketches](https://rmorais.itch.io/xadado)"><img src="https://img.itch.zone/aW1nLzExMzYyNTU3LmdpZg==/180x143%23c/nYZoVS.gif" width="32" hspace="20"/></a>
+<a href="[https://openprocessing.org/user/219598?o=7&view=sketches](https://rmorais.itch.io/xadado)"><img src="https://img.itch.zone/aW1nLzExMzYyNTU3LmdpZg==/180x143%23c/nYZoVS.gif" width="250" hspace="20"/></a>
 
 ## Interests
 
