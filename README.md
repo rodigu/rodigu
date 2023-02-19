@@ -6,7 +6,6 @@
 - [:computer: Languages](#computer-languages)
 - [:man_technologist: Tech/Tools](#man_technologist-techtools)
 - [:smile: Pronouns > He/They](#smile-ponouns--hethey)
-- [:microphone: First-hand accounts](#microphone-first-hand-accounts)
 
 ## Highlight
 
