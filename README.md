@@ -12,8 +12,6 @@
   <a href="https://rmorais.itch.io"><img src="https://static.itch.io/images/itchio-textless-white.svg" width="32" hspace="20"></a>
 </p>
 
-## :smile: Pronouns > He/They
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=dark)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=dark&show_icons=true)
