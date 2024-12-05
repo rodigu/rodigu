@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rodigu&theme=gruvbox)](https://git.io/streak-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=gruvbox&layout=donut-vertical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=gruvbox&layout=compact)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=gruvbox&show_icons=true)
 
