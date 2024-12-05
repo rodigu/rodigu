@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rodigu&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rodigu&theme=gruvbox)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=gruvbox&layout=compact&size_weight=0&count_weight=1&card_width=400)
 
