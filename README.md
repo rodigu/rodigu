@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=gruvbox&layout=compact&size_weight=0&count_weight=1&card_width=400)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=gruvbox&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodigu&theme=gruvbox&show_icons=true&rank_icon=percentile)
 
 
 <p float="left">
