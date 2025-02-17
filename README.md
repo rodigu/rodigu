@@ -1,3 +1,5 @@
+> “I find that weeks of coding and testing can save me hours of planning.” ([Why Most Unit Testing is Waste](https://pythontest.com/strategy/why-most-unit-testing-is-waste/))
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rodigu&theme=gruvbox-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodigu&theme=gruvbox&layout=compact&size_weight=0&count_weight=1&card_width=400)
