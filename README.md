@@ -1,4 +1,5 @@
-> "Good judgement comes from experience, and experience comes from bad judgement." (Fred Brooks, for the ACMs programming pearls[^1])
+> "_Good judgement comes from experience, and experience comes from bad judgement._"[^1]
+
 
 [^1]: [Jon Bentley, "programming pearls" in _Communications of the ACM_ (volume 28, number 9).](https://dl.acm.org/doi/pdf/10.1145/4284.315122)
 
