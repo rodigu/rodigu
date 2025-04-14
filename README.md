@@ -1,4 +1,6 @@
-> “I find that weeks of coding and testing can save me hours of planning.” ([Why Most Unit Testing is Waste](https://pythontest.com/strategy/why-most-unit-testing-is-waste/))
+> "Good judgement comes from experience, and experience comes from bad judgement." (Fred Brooks, for the ACMs programming pearls[^1])
+
+[^1]: [Jon Bentley, "programming pearls" in _Communications of the ACM_ (volume 28, number 9).](https://dl.acm.org/doi/pdf/10.1145/4284.315122)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rodigu&theme=gruvbox-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
