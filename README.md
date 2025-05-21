@@ -1,7 +1,7 @@
-> "_Good judgement comes from experience, and experience comes from bad judgement._"[^1]
+> "_The finest qualities of our nature, like the bloom on fruits, can be preserved only by the most delicate handling. Yet we do not treat ourselves nor one another thus tenderly._"[^1]
 
 
-[^1]: [Jon Bentley, "programming pearls" in _Communications of the ACM_ (volume 28, number 9).](https://dl.acm.org/doi/pdf/10.1145/4284.315122)
+[^1]: [Henry David Thoreau, "Walden".]([https://dl.acm.org/doi/pdf/10.1145/4284.315122](https://www.gutenberg.org/cache/epub/205/pg205-images.html))
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rodigu&theme=gruvbox-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
