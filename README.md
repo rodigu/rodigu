@@ -1,3 +1,7 @@
+today's hedgehog wearing a seatbelt:
+
+![hedgehog wearing a seatbelt](https://pin.it/70BsCTKZG)
+
 > "_The finest qualities of our nature, like the bloom on fruits, can be preserved only by the most delicate handling. Yet we do not treat ourselves nor one another thus tenderly._"[^1]
 
 ---
@@ -18,3 +22,4 @@
   <a href="https://tic80.com/dev?id=5531"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIC-80_Icon.png/640px-TIC-80_Icon.png" width="32" hspace="20"></a>
   <a href="https://rmorais.itch.io"><img src="https://static.itch.io/images/itchio-textless-white.svg" width="32" hspace="20"></a>
 </p>
+
