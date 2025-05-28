@@ -1,6 +1,6 @@
 today's hedgehog wearing a seatbelt:
 
-![hedgehog wearing a seatbelt](https://i.pinimg.com/736x/09/ee/aa/09eeaa19d93862c0938d1b223c0b6bbc.jpg)
+<img src="https://i.pinimg.com/736x/09/ee/aa/09eeaa19d93862c0938d1b223c0b6bbc.jpg" alt="hedgehog wearing a seatbelt" width="256"> 
 
 > "_The finest qualities of our nature, like the bloom on fruits, can be preserved only by the most delicate handling. Yet we do not treat ourselves nor one another thus tenderly._"[^1]
 
